@@ -7,7 +7,7 @@ Movie Lens dataset based recommendation system.
 1. **Run the API**
 
     ```bash
-    cd /path/to/your/project
+    cd ../MovieRecommender/src
     python api.py
     ```
 
