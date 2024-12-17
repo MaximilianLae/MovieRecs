@@ -8,7 +8,7 @@ Movie Lens dataset based recommendation system.
 
     ```bash
     cd /path/to/your/project
-    python run_api.py
+    python api.py
     ```
 
 2. **Launch the Streamlit App**
